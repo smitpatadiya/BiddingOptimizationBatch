@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringBatch
+Implementation-Version: 0.0.1
+Built-By: smit
+Implementation-Vendor-Id: com.bidding
+Build-Jdk: 1.8.0_191
+Implementation-URL: http://projects.spring.io/spring-boot/BiddingOptim
+ izationBatch/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
